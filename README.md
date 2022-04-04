@@ -1,7 +1,7 @@
 # Residence-Management-System
 College Study Project 
-This is a project that me and a partner has completed Using MySQL Workbench. 
-I am responsible for the tables creation section while my partner took responsible for the data section. 
+This is a project that I and a partner have completed Using MySQL Workbench as a final exam project. 
+I am responsible for the tables creation section while my partner took responsiblility for the data section. 
  ======================================================================================================
  Function/Statement used:
     Create Table
@@ -15,4 +15,4 @@ I am responsible for the tables creation section while my partner took responsib
     Distinct
     View
     Where/Having/And
-  
+   
